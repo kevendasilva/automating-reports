@@ -1,0 +1,8 @@
+# Variáveis de ambiente
+.env
+
+# Diretório dos relatórios
+/reports
+
+# Diretório dos dados
+/data
