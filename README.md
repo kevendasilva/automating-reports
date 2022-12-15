@@ -1,6 +1,5 @@
-# Conteúdos
+# Navegação
 
-- [Conteúdos](#conteúdos)
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
 - [Arquivos](#arquivos)
